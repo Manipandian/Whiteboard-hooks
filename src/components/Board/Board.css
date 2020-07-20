@@ -10,4 +10,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: 30px double #1C6EA4;
+  border-radius: 40px 40px 40px 40px;
 }
