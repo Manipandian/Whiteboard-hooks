@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Whiteboard-hooks/static/css/main.4a8ca475.chunk.css",
+    "main.js": "/Whiteboard-hooks/static/js/main.f5929e4c.chunk.js",
+    "main.js.map": "/Whiteboard-hooks/static/js/main.f5929e4c.chunk.js.map",
+    "runtime-main.js": "/Whiteboard-hooks/static/js/runtime-main.0208706a.js",
+    "runtime-main.js.map": "/Whiteboard-hooks/static/js/runtime-main.0208706a.js.map",
+    "static/js/2.ac763b74.chunk.js": "/Whiteboard-hooks/static/js/2.ac763b74.chunk.js",
+    "static/js/2.ac763b74.chunk.js.map": "/Whiteboard-hooks/static/js/2.ac763b74.chunk.js.map",
+    "index.html": "/Whiteboard-hooks/index.html",
+    "precache-manifest.b5a11062586c19f340619894bb8e0489.js": "/Whiteboard-hooks/precache-manifest.b5a11062586c19f340619894bb8e0489.js",
+    "service-worker.js": "/Whiteboard-hooks/service-worker.js",
+    "static/css/main.4a8ca475.chunk.css.map": "/Whiteboard-hooks/static/css/main.4a8ca475.chunk.css.map",
+    "static/js/2.ac763b74.chunk.js.LICENSE.txt": "/Whiteboard-hooks/static/js/2.ac763b74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0208706a.js",
+    "static/js/2.ac763b74.chunk.js",
+    "static/css/main.4a8ca475.chunk.css",
+    "static/js/main.f5929e4c.chunk.js"
+  ]
+}
